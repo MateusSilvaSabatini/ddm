@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+
+    border: 3px dashed #dc143c;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
